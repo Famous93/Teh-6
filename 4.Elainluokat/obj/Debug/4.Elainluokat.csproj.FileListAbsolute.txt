@@ -1,0 +1,10 @@
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\bin\Debug\4.Elainluokat.exe.config
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\bin\Debug\4.Elainluokat.exe
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\bin\Debug\4.Elainluokat.pdb
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\bin\Debug\Elainluokat.dll
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\bin\Debug\Elainluokat.pdb
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\obj\Debug\4.Elainluokat.csprojAssemblyReference.cache
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\obj\Debug\4.Elainluokat.csproj.CopyComplete
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\obj\Debug\4.Elainluokat.exe
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\obj\Debug\4.Elainluokat.pdb
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\4.Elainluokat\4.Elainluokat\obj\Debug\4.Elainluokat.csproj.CoreCompileInputs.cache

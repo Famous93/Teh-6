@@ -1,0 +1,14 @@
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\bin\Debug\6.exe.config
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\bin\Debug\6.exe
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\bin\Debug\6.pdb
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\bin\Debug\Elainluokat.dll
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\bin\Debug\Elainluokat.pdb
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\obj\Debug\6.csprojAssemblyReference.cache
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\obj\Debug\6.csproj.CopyComplete
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\obj\Debug\6.exe
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\obj\Debug\6.pdb
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\bin\Debug\6.exe.manifest
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\bin\Debug\6.application
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\obj\Debug\6.exe.manifest
+C:\Users\Maroof\Desktop\Koulu\Ammatti\Olio\6\6\obj\Debug\6.application
